@@ -1,0 +1,11 @@
+C:\Users\abelk\source\repos\Tutor Game\Tutor Game\bin\Debug\Tutor Game.exe.config
+C:\Users\abelk\source\repos\Tutor Game\Tutor Game\bin\Debug\Tutor Game.exe
+C:\Users\abelk\source\repos\Tutor Game\Tutor Game\bin\Debug\Tutor Game.pdb
+C:\Users\abelk\source\repos\Tutor Game\Tutor Game\obj\Debug\Tutor Game.csproj.AssemblyReference.cache
+C:\Users\abelk\source\repos\Tutor Game\Tutor Game\obj\Debug\Tutor Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\abelk\source\repos\Tutor Game\Tutor Game\obj\Debug\Tutor_Game.Properties.Resources.resources
+C:\Users\abelk\source\repos\Tutor Game\Tutor Game\obj\Debug\Tutor Game.csproj.GenerateResource.cache
+C:\Users\abelk\source\repos\Tutor Game\Tutor Game\obj\Debug\Tutor Game.csproj.CoreCompileInputs.cache
+C:\Users\abelk\source\repos\Tutor Game\Tutor Game\obj\Debug\Tutor Game.exe
+C:\Users\abelk\source\repos\Tutor Game\Tutor Game\obj\Debug\Tutor Game.pdb
+C:\Users\abelk\source\repos\Tutor Game\Tutor Game\obj\Debug\Tutor_Game.Form1.resources
